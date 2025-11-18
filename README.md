@@ -109,7 +109,6 @@ A super-clean, opinionated VS Code + VSCodeVim configuration I actually use ever
     { "before": ["<C-j>"], "commands": ["workbench.action.focusBelowGroup"] },
     { "before": ["<C-k>"], "commands": ["workbench.action.focusAboveGroup"] },
     { "before": ["<C-l>"], "commands": ["workbench.action.focusRightGroup"] },
-, "workbench.action.focusRightGroup"] },
     { "before": ["<leader>", "n"], "commands": ["workbench.action.nextEditor"] },
     { "before": ["<leader>", "p"], "commands": ["workbench.action.previousEditor"] },
     { "before": ["<leader>", "e"], "commands": ["workbench.action.quickOpen"] },
