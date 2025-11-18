@@ -1,5 +1,5 @@
 # vscode-vim-bindings
-Well at least it's a starting point LOL 😀, use this if your starting with VimMotions and NeoVim or Vim is too overwhelming
+Well you gotta start somewhere right 😀, use this if your starting with VimMotions and NeoVim or Vim is too overwhelming
 
 # VS Code Vim Keybindings – Clean & Minimalist Setup  
 *(the one where `D`, `C`, `S` finally stop yanking garbage into your clipboard)*
